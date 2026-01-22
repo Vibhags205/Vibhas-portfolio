@@ -6,16 +6,16 @@ This project showcases who I am, the work I’ve built, and how to connect with 
  
  Tech Stack:
 
-### Frontend
+Frontend
 -  React (Vite)
 -  Tailwind CSS
 -  JavaScript (ES6+)
 
-### Backend / Services
+Backend / Services
 - Firebase Firestore (Contact form backend)
 - Firebase Hosting (Deployment)
 
-### Tools
+Tools
 - Git & GitHub
 - VS Code
 
