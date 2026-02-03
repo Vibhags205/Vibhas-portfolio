@@ -21,8 +21,8 @@ export default function Projects() {
         <ProjectCard
           title="Swaralaya – A Space for Music Learners and Lovers"
           description="A web application for Indian classical music lovers, offering learning resources, guidance, and updates on events."
-          repo="https://github.com/Vibhags205/swaralaya"
-          link="https://swaralaya-front.onrender.com/"
+          repo="https://github.com/Vibhags205/Swaralaya2.0"
+          link="https://swaralaya2-8000f.web.app/"
           image={swaralayaImg}
         />
 
